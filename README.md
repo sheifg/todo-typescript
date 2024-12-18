@@ -1,7 +1,7 @@
-## **Todo TypeScript App**
+## **Todo TypeScript Project**
 
 ### *Project Description:*
-Todo TypeScript App is a React project and it was created using create-react-app. To style the project it was used Bootstrap.
+Todo TypeScript Project is a React project and it was created using create-react-app. To style the project it was used Bootstrap.
 
 ### *Getting started:* 
   - First install all the dependencies:
